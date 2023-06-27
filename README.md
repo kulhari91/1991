@@ -1,3 +1,5 @@
+Learned this data engineering project inlcuding GCP Project using mage as ETL tool AND looker as dashboard tool ,Loading data int google query 
+
 # Uber Data Analytics | Modern Data Engineering GCP Project
 
 ## Introduction
@@ -34,5 +36,4 @@ More info about dataset can be found here:
 ## Data Model
 <img src="data_model.jpeg">
 
-## Complete Video Tutorial 
-Video Link - https://youtu.be/WpQECq5Hx9g
+
