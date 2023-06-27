@@ -7,7 +7,7 @@ Learned this data engineering project inlcuding GCP Project using mage as ETL to
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Architecture 
-<img src="architecture.jpg">
+Rawdata (cloud storage )-----ETL Tool (Mage)-----analytics (Big Query )----Looker (Dashboard tool)
 
 ## Technology Used
 - Programming Language - Python
